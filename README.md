@@ -8,3 +8,4 @@ vue - in progress
 vuex - not yet  
 vue-router - not yet
 testy - theory done, unit tests not yet
+ 
