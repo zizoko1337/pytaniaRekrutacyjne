@@ -12,3 +12,4 @@ testy - theory done, unit tests not yet
  incject - provide
  computed watchers i wszystkie
  vuex - pinia
+zd-rekru: 12.10
