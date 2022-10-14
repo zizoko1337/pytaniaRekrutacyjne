@@ -11,5 +11,5 @@ testy - theory done, unit tests not yet
  spa
  incject - provide
  computed watchers i wszystkie
- vuex - pinia
+ vuex - pinia 
 zd-rekru: 12.10
