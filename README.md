@@ -4,7 +4,7 @@ js - done
 css - done 
 sass - in progress
 html - done 
-vue - in progress - pdf making
+vue - in progress - pdf making 
 vuex - not yet  
 vue-router - not yet
 testy - theory done, unit tests not yet
